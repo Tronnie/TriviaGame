@@ -27,10 +27,10 @@ $("#start").click(function(){
 }); //<--start button
 
 //////RADIO BUTTON STRUGGLE
-
+// 
 // var test = $("#q1 input");
 // debugger; (with Aylan)
-
+//
 // function count ({
 //     var timeDown=time--;
 //     $("#timer").html(timeDown);
@@ -47,7 +47,7 @@ $("#start").click(function(){
 
     //a. create questions array
     //b. create answers array variables radio buttons value:
-// 
+//
 // var corr = 0;
 // var incorr = 0;
 // var valueCorrect = [input = "q1c","q2b","q3a"];
